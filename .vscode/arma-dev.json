@@ -3,7 +3,7 @@
 	"name": "A3U",
 	"author": "Antistasi Ultimate Dev Team",
 	"website": "https://antistasi.de/",
-	"version": "11.4.2",
+	"version": "2.5.4",
 	"buildPath": "build",
 	"privateKey": "",
 	"serverDirs": [],
@@ -32,7 +32,9 @@
 		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3\\!Workshop\\@CUP Terrains - Maps",
 		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3\\!Workshop\\@Disable 3den Mission Preview Shortcut",
 		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3\\!Workshop\\@IFA3 AIO",
-		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3\\!Workshop\\@Virolahti - Valtatie 7"
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3\\!Workshop\\@Virolahti - Valtatie 7",
+		"C:\repo\a3a\build\@A3U"
 	],
 	"ftpConnection": {},
+    "steamPath": "C:\\Program Files (x86)\\Steam"
 }
